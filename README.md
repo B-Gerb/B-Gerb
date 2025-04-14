@@ -15,8 +15,7 @@ I build software solutions and enjoy baking in my free time.
 ## Current Projects
 
 - Full-stack web applications
-- Recipe management tool
-- Open source contributions
+- Recipe Development 
 
 ## Interests
 
